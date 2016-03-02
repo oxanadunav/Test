@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1456924051 source:c:\users\acer\dropbox\utm\wp\lab2\main.cpp
+	<tchar.h>
+	<windows.h>
+	"resource.h"
+
+1456864134 c:\users\acer\dropbox\utm\wp\lab2\resource.h
+
+1456831995 source:c:\users\acer\dropbox\utm\wp\lab2\resource.rc
+	<windows.h>
+	"resource.h"
+
